@@ -1,3 +1,4 @@
 *.png
 pictures/
+.DS_Store
 
